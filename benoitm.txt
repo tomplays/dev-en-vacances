@@ -1,0 +1,151 @@
+
+
+Hello, tout d'abord, merci de prendre un peu de ton le temps pour rue89 !
+
+Tu peux me répondre librement par mail (twersinger@rue89.com) ou en copiant ce fichier et répondre entre les lignes de questions (puis add/commit le fichier "tonprenom.txt ou .md") 
+
+(le repo sera supprimé après publication de l'article)
+
+Libre à toi de répondre à ce qui te convient et de développer les questions qui te branchent le plus.
+
+Simplement, "prénom, age et ville" ne sont pas facultatifs.
+l'idée est de créer un article sur ce format dit "moulinette"
+
+http://apps.rue89.com/2015-apps/moulinette/apps/mill/dist/index.html?fibre-village
+
+
+------------------------------------------------
+
+Qui es-tu ?
+--
+Benoît - 31ans - Marseille
+--
+
+
+Le reste de l'année tu es:
+--
+Freelance
+--
+
+
+Tu travailles seul ? en équipe ?
+--
+Je travaille essentiellement seul, et collabore avec des graphistes au besoin.
+Je suis donc totalement libre de gérer mes disponibilités et congés.
+Les contraintes de jeune papa sont sans doute les plus compliqués :)
+--
+
+
+Tes vacances :
+
+
+Tu en prends souvent - pas souvent, où étais-tu ? combien de temps ?
+--
+La situation de freelance offre le grand luxe de laisser croire que l'on est un électron totalement libre. La réalité est plus insidieuse, à moins d'avoir des projets à 30 000 € tous les mois, le freelance peut raremment refuser un projet. Il y a des hauts et des bas: pas de boulots pendant 2 mois puis grosse montée en charge. Il est donc des difficiles de pouvoir programmer à l'avance des congès, ou alors on le fait en partant l'ordi sous bras en espèrant qu'aucun client n'ai un problème ou de devis à faire.
+Cette année, on est parti entre jeunes parents, une petite semaine sur l'Ile d'Yeu. Le "out of digital network" a été possible malgrè une ou deux urgences. Puis les "vacances" ont été prolongée de manière forcée car la nounou de la petite avait pris 3 semaines, donc j'ai rajouter à ma polivalence de freelance la compétence d'assistant maternelle pendant 2 semaines à la maison, donc je pouvais toucher du code pendant les sièstes.
+--
+
+
+Ton lieu de vacances avait un rapport avec le boulot ?
+- / -
+
+
+Tu as choisi ton lieu de vacances en tenant compte de contraintes ?
+--
+On ne veut pas se l'avouer car on rêve de ce fameux "out of digital network", mais le fait de savoir qu'un box et disponible, rassure énormement et puis il y a toujours le modem 4G au fond du sac.
+--
+
+
+Peut-être en vacances avec d'autres devs ? pour le plaisir ou commencer à plusieurs LA startup qui va tout révolutionner :)
+--
+Dans mon entourage quotidien physique je ne fréquente aucun développeur, ou très rarement, l'idée d'organiser un weekend ou vacances geek me filerait des boutons, par contagions peut-être.
+--
+
+
+Avais-tu le matériel avec toi ? ordi portable, autre.
+Tu as "codé sans ordi" ? des croquis, idées mises sur le papier, autres..
+--
+Toujours a portée de main.
+
+
+As-tu anticipé la coupure ? (suppression des notifications, réponse de mail automatique, ...)
+--
+Ni notifiations supprimées, ni réponse automatique programmée. Mon téléphone portable a eut la bonne idée de se décharger dès le premier jour et j'ai trouvé agréable de ne chercher à le recharger avant le dernier jour.
+--
+
+
+## Tu as codé pendant les vacances:
+
+
+à cause de retards, delai de livraison dépassés, ..
+pour prendre de nouveaux clients, opportunités ?
+pour le plaisir , projets annexes, idée de startup, blog perso, coup de main, humanitaire, hacktivism, etc..
+--
+Un devis a envoyé, je ne pouvais pas passer à côté.
+Une urgence pour une client qui suite a une erreur c'est retrouvé avec une belle 503 sur son site.
+Pas mal de side-project :
+- application de livre pour enfants en collaboration avec des illustrateurs, 
+- projet sur l'obsolescence programmée,
+- coup de main pour des associations n'ayant pas les moyens qui ont aussi le droit d'avoir leur site de qualité
+--
+
+
+à quelle heure ? (nuit, heure de la sieste ?)
+--
+Durant la sieste de la petite, de 13h à 16h30 (au mieux, on a la chance d'avoir une bonne dormeuse)
+--
+
+
+à quel rythme ?
+où ? (cachés dans ta chambre ? sur la plage ? au milieu de tout le monde ?)
+C'est assumé / honteux / tu le dis ou pas ? 
+Si tu le faisais pas, tu deviendrais dingue ?
+Es-tu meilleur en vacances que pendant l'année ? (plus inventif ? plus rapide ?)
+As-tu déjà eu honte de ce que tu code pendant l'été ? (des trucs débiles etc.)
+--
+On a toujours un peu honte de ce qu'on peut coder: syndrome du développeur.
+--
+
+## Tu n'as pas codé pendant tes vacances:
+
+Tu fais toujours ainsi : les vacances c'est **offline**!
+D'habitude tu restes connecté, mais cette fois non! pourquoi ?
+--
+Le offlines est un doux rêve, ce n'est pas quelques choses que j'envisage possible. Quand on est freelance, je ne pense pas cela soit réelement possible. Certains doivent pouvoir le faire, mais je n'en fait pas parti.
+--
+
+
+Un loisir proche de la programmation ? "truc de geeks"
+appris quelquechose basé sur la logique, maths, languages ?
+--
+J'ai un grand plaisir à faire le travail que je fait, c'est même une passion, mais la parentalité te pousse (j'espère qu'au début) à mettre ton Arduino de côté,... 
+--
+
+
+LE truc que t'etais obligé de vérifier ? serveur online, mails importants, etc..
+qui t'as fait te reconnecter ?
+que t'as quand meme laissé de côté ?
+- Déjà répondu plus haut -
+
+Des choses que tu ne considere pas comme étant pro ?
+Notifications twitter / autres ?
+Notifications veille/actu ?
+
+
+Et le retour de vacances ? trop de mails ?
+--
+C'est la réalité de beaucoup de gens ajourd'hui, le tri des emails au retours de congès, on y passe tous, développeur ou non.
+--
+
+...
+Un avis plus personnel sur le fait de rester connecté ou non ?
+-- Il me semble avoir répondu à différent endroit de cette "interview"
+...
+
+
+
+Réponses attendues avant le jeudi 3 septembre
+
+
+Encore merci,
+Tom Wersinger
